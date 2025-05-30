@@ -11,35 +11,38 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D, Institute of Neuroscience, National Yang Ming Chiao Tung University
+* Master of Education, Cognition and Science Learning, Institute of Education, National Yang Ming Chiao Tung University, 2022
+* Program of Big Data Analysis, Institute of Statistics & Institute of Data Science and Engineering, 2022
+* Bachelor of Science, Department of Electrophysics, National Chiao Tung University, 2019
+* K-12 Science Teaching Certificate, Center for Teacher Education, 2019
 
-Work experience
+Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* AI Researcher(2024-Present), NYCU Digital Transformation Project – AI-Driven Teaching and Learning Group
+  * Finetune large language models for AI tutor applications
+  * Implement personalized feedback mechanisms based on learner input
+  * Design and integrate adaptive testing modules for tailored assessments
+  * Develop avatar-based teaching systems with interactive visual interfaces
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Software Engineer(2022-2024), Higher Education Resources for Openness, NYCU 
+  * Develop LLM-based AI tutor and assessment tools
+  * Analyze big data for learning behavior and outcomes
+  * Visualize educational data for insight and decision-making
+  * Research learning effectiveness in MOOCs (Massive Open Online Courses)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+* Research Assistant(2019-2021), Cognition and Science Learning, NYCU
+  * Refined fMRI tasks and organized behavioral-neural data for analyzing brain activation during conceptual conflict
+  * Collected online learning logs and mental models to analyze how self-generated representations affect inquiry performance
+  * Analyzed eye-tracking and fMRI data to examine attention and reasoning in conceptual change
+
+Teaching Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Teaching Assistant(Fall 2024), Morality and Human Cognition, National Yang Ming Chiao Tung University
+* Teaching Assistant(2023), Python Workshop, Sciwork Conference 2023 
+* High School Physics Teacher(2022-2023), Chinese Taipei School (Kuala Lumpur)
+* High School Physics Teacher(2021-2022), National Hsinchu Girls’ Senior High School
+* High School Physics Teacher(2019-2020), Hsinchu Chien Kung Senior High School
 
 Publications
 ======
@@ -53,12 +56,17 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+Skills
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* Programming Languages: Python, R, Arduino, Matlab
+* Libraries: PyTorch, LangChain, Scikit-learn, Pandas, OpenCV
+* Languages: Mandarin (native), English (fluent), German (beginner)
+
+Awards
 ======
-* Currently signed in to 43 different slack teams
+* High Distinction Award, Excellent Student Paper Competition, 2025 Taiwan Society of Cognitive Neuroscience Annual Meeting (2025)
+
+Grants/Scholarship
+======
+* The Ministry of Education (MOE) PhD scholarship (2024)
+* The Ministry of Science and Technology (MOST) Subsidy for OEGlobal 2024 Conference (2024)
