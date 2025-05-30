@@ -17,3 +17,4 @@ vendor/
 .bundle/
 images/.DS_Store
 _talks/.DS_Store
+_publications/.DS_Store

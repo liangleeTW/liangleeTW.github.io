@@ -29,3 +29,6 @@ I’ve taught high school physics, run Python workshops, and assisted in univers
 Skills at a Glance
 ======
 I code primarily in Python and R, with experience in Arduino and MATLAB. My technical toolkit includes libraries such as PyTorch, LangChain, OpenCV, and scikit-learn. Some of my current projects involve edge device applications, including Raspberry Pi and Jetson Nano, and their integration with AI-driven sensing and control systems. I'm part of a team building a prism adaptation paradigm from scratch using Arduino and a custom mechanical setup, enabling precise control over timing and feedback in sensorimotor experiments. My core strength lies in bridging cognitive science insights with technical execution, aiming to create interpretable and human-centered AI systems.
+
+Website is still in progress.
+======
