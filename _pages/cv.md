@@ -13,9 +13,9 @@ Education
 ======
 * Ph.D, Institute of Neuroscience, National Yang Ming Chiao Tung University
 * Master of Education, Cognition and Science Learning, Institute of Education, National Yang Ming Chiao Tung University, 2022
-* Program of Big Data Analysis, Institute of Statistics & Institute of Data Science and Engineering, 2022
+  * Program of Big Data Analysis, Institute of Statistics & Institute of Data Science and Engineering, 2022
 * Bachelor of Science, Department of Electrophysics, National Chiao Tung University, 2019
-* K-12 Science Teaching Certificate, Center for Teacher Education, 2019
+  * K-12 Science Teaching Certificate, Center for Teacher Education, 2019
 
 Experience
 ======
