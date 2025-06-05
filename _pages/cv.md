@@ -64,9 +64,9 @@ Skills
 
 Awards
 ======
-* High Distinction Award, Excellent Student Paper Competition, 2025 Taiwan Society of Cognitive Neuroscience Annual Meeting (2025)
+* High Distinction Award, Excellent Student Paper Competition, [2025 Taiwan Society of Cognitive Neuroscience Annual Meeting](https://sites.google.com/view/tscn2025/%E5%84%AA%E7%A7%80%E5%AD%B8%E7%94%9F%E8%AB%96%E6%96%87%E7%AB%B6%E8%B3%BD%E6%B1%BA%E9%81%B8-student-paper-competition?authuser=0)
 
 Grants/Scholarship
 ======
-* The Ministry of Education (MOE) PhD scholarship (2024)
-* The Ministry of Science and Technology (MOST) Subsidy for OEGlobal 2024 Conference (2024)
+* [The Ministry of Education (MOE) PhD scholarship (2024)](https://aa.nycu.edu.tw/aa/ch/app/news/view?module=headnews&id=2652&serno=2172d805-ff08-45cd-bafb-1af3b0a050ea)
+* [The Ministry of Science and Technology (MOST) Subsidy for OEGlobal 2024 Conference](https://wsts.nstc.gov.tw/STSWeb/Award/AwardMultiQuery.aspx?year=113&code=QS16&organ=&name=%e6%9d%8e%e5%80%9e)
