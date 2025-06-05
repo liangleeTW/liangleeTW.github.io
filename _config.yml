@@ -23,9 +23,9 @@ repository               : "liangleeTW/liangleeTW.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpeg"
-  name             : "Your Sidebar Name"
+  name             : "Liang Lee"
   pronouns         : # example: "she/her"  
-  bio              : "neuroscience, LLM"
+  bio              : "PhD student in Neuroscience & LLM"
   location         : "Hsinchu, Taiwan"
   employer         : "NYCU"
   uri              : # URL
