@@ -19,30 +19,30 @@ Education
 
 Experience
 ======
-* AI Researcher(2024-Present), NYCU Digital Transformation Project – AI-Driven Teaching and Learning Group
+* AI Researcher(2024-Present), [NYCU Digital Transformation Project – AI-Driven Teaching and Learning Group](https://www.nycu.edu.tw/nycu/en/app/news/view?module=headnews&id=552&serno=382d26e2-a3d0-4ea3-a9e7-8f871a0c3677)
   * Finetune large language models for AI tutor applications
   * Implement personalized feedback mechanisms based on learner input
   * Design and integrate adaptive testing modules for tailored assessments
   * Develop avatar-based teaching systems with interactive visual interfaces
 
-* Software Engineer(2022-2024), Higher Education Resources for Openness, NYCU 
+* Software Engineer(2022-2024), [Higher Education Resources for Openness](https://hero.nycu.edu.tw/), NYCU 
   * Develop LLM-based AI tutor and assessment tools
   * Analyze big data for learning behavior and outcomes
   * Visualize educational data for insight and decision-making
   * Research learning effectiveness in MOOCs (Massive Open Online Courses)
 
-* Research Assistant(2019-2021), Cognition and Science Learning, NYCU
+* Research Assistant(2019-2021), [Cognition and Science Learning](https://esciedu.lab.nycu.edu.tw/hcshe/?page_id=614), NYCU
   * Refined fMRI tasks and organized behavioral-neural data for analyzing brain activation during conceptual conflict
   * Collected online learning logs and mental models to analyze how self-generated representations affect inquiry performance
   * Analyzed eye-tracking and fMRI data to examine attention and reasoning in conceptual change
 
 Teaching Experience
 ======
-* Teaching Assistant(Fall 2024), Morality and Human Cognition, National Yang Ming Chiao Tung University
-* Teaching Assistant(2023), Python Workshop, Sciwork Conference 2023 
-* High School Physics Teacher(2022-2023), Chinese Taipei School (Kuala Lumpur)
-* High School Physics Teacher(2021-2022), National Hsinchu Girls’ Senior High School
-* High School Physics Teacher(2019-2020), Hsinchu Chien Kung Senior High School
+* Teaching Assistant(Fall 2024), [Morality and Human Cognition](https://timetable.nycu.edu.tw/?r=main/crsoutline&Acy=113&Sem=1&CrsNo=161056&lang=en-us), National Yang Ming Chiao Tung University
+* Teaching Assistant(2023), Python Workshop, [Sciwork Conference 2023](https://conf2023.sciwork.dev/) 
+* High School Physics Teacher(2022-2023), [Chinese Taipei School (Kuala Lumpur)](https://www.cts.edu.my/)
+* High School Physics Teacher(2021-2022), [National Hsinchu Girls’ Senior High School](https://www.hgsh.hc.edu.tw/ischool/publish_page/0/)
+* High School Physics Teacher(2019-2020), [Hsinchu Chien Kung Senior High School](https://www.cksh.hc.edu.tw/nss/p/index)
 
 Publications
 ======
