@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* PhD student, Institute of Neuroscience, National Yang Ming Chiao Tung University, 2024-Present
-* Master of Education, Cognition and Science Learning, Institute of Education, National Yang Ming Chiao Tung University, 2019-2022
-  * Program of Big Data Analysis, Institute of Statistics & Institute of Data Science and Engineering, 2020-2022
-* Bachelor of Science, Department of Electrophysics, National Chiao Tung University, 2014-2019
-  * K-12 Science Teaching Certificate, Center for Teacher Education, 2015-2019
+* PhD student, Institute of Neuroscience, National Yang Ming Chiao Tung University (2024-Present)
+* Master of Education, [Cognition and Science Learning](https://esciedu.lab.nycu.edu.tw/hcshe/?page_id=614), Institute of Education, National Yang Ming Chiao Tung University (2019-2022)
+  * Program of Big Data Analysis, Institute of Statistics & Institute of Data Science and Engineering (2020-2022)
+* Bachelor of Science, Department of Electrophysics, National Chiao Tung University (2014-2019)
+  * K-12 Science Teaching Certificate, Center for Teacher Education (2015-2019)
 
 Experience
 ======
