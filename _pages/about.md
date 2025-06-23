@@ -10,6 +10,7 @@ redirect_from:
 Hi, I’m Liang Lee, a PhD student in [Neuroscience at National Yang Ming Chiao Tung University (NYCU)](https://ins.nycu.edu.tw/index.php/en/institute-of-neuroscience-nycu/), supervised by [Prof Ching-Po Lin](https://ins.nycu.edu.tw/index.php/en/institute-of-neuroscience-nycu/faculty/chingpo-lin/) ([Brain Connectivity Lab](https://bclab.lab.nycu.edu.tw/index_en.html)) and [Prof. Li-Hung Chang](https://ins.nycu.edu.tw/index.php/en/institute-of-neuroscience-nycu/faculty/lihung-chang/#experience) ([Brain Plasticity Lab](https://plasticitylab.weebly.com/)).
 
 Personal interest:
+
 [Minesweeper.Online](https://minesweeper.online/player/15372903) world rank: 7680 / 8603288 (0.089%)
 
 > Website is still in progress.
