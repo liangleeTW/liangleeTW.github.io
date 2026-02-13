@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Liang Lee',
-  tagline: 'PhD Student in Neuroscience | AI Researcher',
+  tagline: '', //PhD Student | AI Researcher
   favicon: 'img/favicon.ico',
 
   future: {
@@ -52,6 +52,17 @@ const config: Config = {
     ],
   ],
 
+  themes: [
+    [
+      '@easyops-cn/docusaurus-search-local',
+      {
+        hashed: true,
+        indexBlog: true,
+        indexDocs: true,
+      },
+    ],
+  ],
+
   plugins: [
     [
       '@docusaurus/plugin-content-docs',
@@ -75,6 +86,12 @@ const config: Config = {
 
   themeConfig: {
     // image: 'img/social-card.jpg',
+    docs: {
+      sidebar: {
+        hideable: true,
+        autoCollapseCategories: true,
+      },
+    },
     colorMode: {
       respectPrefersColorScheme: true,
     },
@@ -85,7 +102,6 @@ const config: Config = {
         src: 'img/logo.jpg',
       },
       items: [
-        {to: '/', label: 'Home', position: 'left', activeBaseRegex: '^/$'},
         {
           type: 'docSidebar',
           sidebarId: 'researchSidebar',
@@ -114,6 +130,12 @@ const config: Config = {
           target: '_blank',
         },
         {
+          href: 'mailto:liang.lee@tu-darmstadt.de',
+          position: 'right',
+          className: 'header-email-link',
+          'aria-label': 'Email',
+        },
+        {
           href: 'https://github.com/liangleeTW',
           position: 'right',
           className: 'header-github-link',
@@ -123,7 +145,7 @@ const config: Config = {
     },
     footer: {
       style: 'dark',
-      copyright: `Copyright \u00A9 ${new Date().getFullYear()} Liang Lee. Built with Docusaurus.`,
+      copyright: `Copyright \u00A9 ${new Date().getFullYear()} Liang Lee. Built with Docusaurus. Last updated: ${new Date().toLocaleDateString('en-US', {year: 'numeric', month: 'short', day: 'numeric'})}.`,
     },
     prism: {
       theme: prismThemes.github,

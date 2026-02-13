@@ -41,6 +41,13 @@
   line-height: 1.7;
 }
 
+.inlineIcon {
+  height: 1.2em;
+  width: auto;
+  vertical-align: middle;
+  margin: 0 0.1em;
+}
+
 @media screen and (max-width: 768px) {
   .heroInner {
     flex-direction: column;
