@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunklianglee_tw_github_io=globalThis.webpackChunklianglee_tw_github_io||[]).push([[7555],{1623(e){e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"talks"}')}}]);
